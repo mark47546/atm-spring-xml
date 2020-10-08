@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a41c2e54-04f0-491c-a501-7549877e650c" name="Default Changelist" comment="" />
+    <list default="true" id="a41c2e54-04f0-491c-a501-7549877e650c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/atm-di-layer" beforeDir="false" afterPath="$PROJECT_DIR$/atm-di-layer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atm-di-layer/src/main/java/atm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/atm-di-layer/src/main/java/atm/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +14,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/atm-di-layer" />
   </component>
   <component name="ProjectId" id="1iaHmEuQ5LutP3Y5x38oyIVDsja" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602138939512</updated>
+      <workItem from="1602138940770" duration="243000" />
     </task>
     <servers />
   </component>
